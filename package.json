@@ -29,11 +29,11 @@
   },
   "dependencies": {
     "gatsby": "^2.24.67",
-    "gatsby-rehype-inline-images": "*",
     "gatsby-plugin-ackee-tracker": "^2.0.1",
     "gatsby-plugin-netlify": "^2.3.16",
     "gatsby-plugin-preact": "^4.0.13",
     "gatsby-rehype-ghost-links": "^1.6.1",
+    "gatsby-rehype-inline-images": "^1.7.5",
     "gatsby-rehype-prismjs": "^1.2.1",
     "gatsby-theme-ghost-dark-mode": "^1.6.1",
     "gatsby-theme-ghost-members": "^1.4.1",
