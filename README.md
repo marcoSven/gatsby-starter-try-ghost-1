@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/styxlab/gatsby-starter-try-ghost)
+
 <p align="center">
   <a href="https://www.jamify.org">
     <img alt="Jamify" src="https://avatars0.githubusercontent.com/u/73162720?s=200&v=4" />
